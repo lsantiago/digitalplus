@@ -12,7 +12,8 @@ package digitalplus;
 public class Cliente {
     String nombre;
     String apellido;
-
+    
+    //Constructor
     public Cliente(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido+"";
