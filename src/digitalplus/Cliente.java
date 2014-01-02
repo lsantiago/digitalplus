@@ -10,5 +10,6 @@ package digitalplus;
  * @author lsantiago
  */
 public class Cliente {
-
+    String nombre;
+    String apellido;
 }
