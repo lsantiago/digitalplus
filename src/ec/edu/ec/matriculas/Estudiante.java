@@ -10,5 +10,6 @@ package ec.edu.ec.matriculas;
  * @author lsantiago
  */
 public class Estudiante {
+    String nombre;
 
 }
